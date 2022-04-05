@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Gas_Ordering_System
 {
-    public partial class Form2 : Form
+    public partial class Customer : Form
     {
-        public Form2()
+        public Customer()
         {
             InitializeComponent();
         }
