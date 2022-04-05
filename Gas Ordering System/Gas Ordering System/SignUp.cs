@@ -46,5 +46,10 @@ namespace Gas_Ordering_System
         {
 
         }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
