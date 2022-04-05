@@ -1,0 +1,11 @@
+D:\Git\CSharp-Form-Application\Gas Ordering System\Gas Ordering System\bin\Debug\Gas Ordering System.exe.config
+D:\Git\CSharp-Form-Application\Gas Ordering System\Gas Ordering System\bin\Debug\Gas Ordering System.exe
+D:\Git\CSharp-Form-Application\Gas Ordering System\Gas Ordering System\bin\Debug\Gas Ordering System.pdb
+D:\Git\CSharp-Form-Application\Gas Ordering System\Gas Ordering System\obj\Debug\Gas Ordering System.csproj.AssemblyReference.cache
+D:\Git\CSharp-Form-Application\Gas Ordering System\Gas Ordering System\obj\Debug\Gas Ordering System.csproj.SuggestedBindingRedirects.cache
+D:\Git\CSharp-Form-Application\Gas Ordering System\Gas Ordering System\obj\Debug\Gas_Ordering_System.Properties.Resources.resources
+D:\Git\CSharp-Form-Application\Gas Ordering System\Gas Ordering System\obj\Debug\Gas Ordering System.csproj.GenerateResource.cache
+D:\Git\CSharp-Form-Application\Gas Ordering System\Gas Ordering System\obj\Debug\Gas Ordering System.csproj.CoreCompileInputs.cache
+D:\Git\CSharp-Form-Application\Gas Ordering System\Gas Ordering System\obj\Debug\Gas Ordering System.exe
+D:\Git\CSharp-Form-Application\Gas Ordering System\Gas Ordering System\obj\Debug\Gas Ordering System.pdb
+D:\Git\CSharp-Form-Application\Gas Ordering System\Gas Ordering System\obj\Debug\Gas_Ordering_System.Login.resources
