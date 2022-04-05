@@ -1,6 +1,6 @@
 ﻿namespace Gas_Ordering_System
 {
-    partial class Form2
+    partial class Customer
     {
         /// <summary>
         /// Required designer variable.
