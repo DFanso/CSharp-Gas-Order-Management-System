@@ -29,7 +29,6 @@ H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Orde
 H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.csproj.CoreCompileInputs.cache
 H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.exe
 H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.pdb
-G:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas_Order_System.Form2.resources
 G:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas_Order_System.Dashboard.resources
 G:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas_Order_System.SignUp.resources
 H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\bin\Debug\Gas Order System.exe.config
