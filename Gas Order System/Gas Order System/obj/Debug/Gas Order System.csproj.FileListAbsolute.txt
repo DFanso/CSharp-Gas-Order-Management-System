@@ -38,3 +38,18 @@ H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Orde
 H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.csproj.CoreCompileInputs.cache
 H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.exe
 H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.pdb
+D:\Documentation\NSBM Green University\NSBM\First Year\Semester 2\C#\Assignment\CSharp-Form-Application\Gas Order System\Gas Order System\bin\Debug\Gas Order System.exe.config
+D:\Documentation\NSBM Green University\NSBM\First Year\Semester 2\C#\Assignment\CSharp-Form-Application\Gas Order System\Gas Order System\bin\Debug\Gas Order System.exe
+D:\Documentation\NSBM Green University\NSBM\First Year\Semester 2\C#\Assignment\CSharp-Form-Application\Gas Order System\Gas Order System\bin\Debug\Gas Order System.pdb
+D:\Documentation\NSBM Green University\NSBM\First Year\Semester 2\C#\Assignment\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.csproj.AssemblyReference.cache
+D:\Documentation\NSBM Green University\NSBM\First Year\Semester 2\C#\Assignment\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.csproj.SuggestedBindingRedirects.cache
+D:\Documentation\NSBM Green University\NSBM\First Year\Semester 2\C#\Assignment\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas_Order_System.Booking_Page.resources
+D:\Documentation\NSBM Green University\NSBM\First Year\Semester 2\C#\Assignment\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas_Order_System.Customer.resources
+D:\Documentation\NSBM Green University\NSBM\First Year\Semester 2\C#\Assignment\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas_Order_System.Dashboard.resources
+D:\Documentation\NSBM Green University\NSBM\First Year\Semester 2\C#\Assignment\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas_Order_System.Properties.Resources.resources
+D:\Documentation\NSBM Green University\NSBM\First Year\Semester 2\C#\Assignment\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas_Order_System.SignUp.resources
+D:\Documentation\NSBM Green University\NSBM\First Year\Semester 2\C#\Assignment\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.csproj.GenerateResource.cache
+D:\Documentation\NSBM Green University\NSBM\First Year\Semester 2\C#\Assignment\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.csproj.CoreCompileInputs.cache
+D:\Documentation\NSBM Green University\NSBM\First Year\Semester 2\C#\Assignment\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.exe
+D:\Documentation\NSBM Green University\NSBM\First Year\Semester 2\C#\Assignment\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.pdb
+D:\Documentation\NSBM Green University\NSBM\First Year\Semester 2\C#\Assignment\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas_Order_System.Forms.FormDashboard.resources
