@@ -61,5 +61,10 @@ namespace Gas_Order_System
         {
 
         }
+
+        private void label1_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

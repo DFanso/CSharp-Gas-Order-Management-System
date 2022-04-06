@@ -16,8 +16,8 @@ namespace Gas_Order_System
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SignUp());
             Application.Run(new Customer());
+            Application.Run(new SignUp());
             Application.Run(new Dashboard());
         }
     }
