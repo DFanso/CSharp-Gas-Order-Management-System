@@ -20,20 +20,8 @@ D:\Git\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas O
 D:\Git\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.exe
 D:\Git\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.pdb
 D:\Git\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas_Order_System.SignUp.resources
-H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.csproj.AssemblyReference.cache
-H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.csproj.SuggestedBindingRedirects.cache
-H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas_Order_System.Dashboard.resources
-H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas_Order_System.Properties.Resources.resources
-H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas_Order_System.SignUp.resources
-H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.csproj.GenerateResource.cache
-H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.csproj.CoreCompileInputs.cache
-H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.exe
-H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas Order System.pdb
 G:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas_Order_System.Dashboard.resources
 G:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas_Order_System.SignUp.resources
-H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\bin\Debug\Gas Order System.exe.config
-H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\bin\Debug\Gas Order System.exe
-H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\bin\Debug\Gas Order System.pdb
-H:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas_Order_System.Customer.resources
 G:\Other computers\My Computer\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas_Order_System.Customer.resources
 D:\Git\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas_Order_System.Customer.resources
+D:\Git\CSharp-Form-Application\Gas Order System\Gas Order System\obj\Debug\Gas_Order_System.Booking_Page.resources

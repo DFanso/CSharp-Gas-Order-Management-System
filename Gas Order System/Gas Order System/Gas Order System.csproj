@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Booking Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Booking Page.Designer.cs">
+      <DependentUpon>Booking Page.cs</DependentUpon>
+    </Compile>
     <Compile Include="Customer Page.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -67,6 +73,9 @@
     <Compile Include="SignUp.Designer.cs">
       <DependentUpon>SignUp.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Booking Page.resx">
+      <DependentUpon>Booking Page.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Customer Page.resx">
       <DependentUpon>Customer Page.cs</DependentUpon>
     </EmbeddedResource>

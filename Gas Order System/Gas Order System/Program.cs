@@ -19,6 +19,8 @@ namespace Gas_Order_System
             Application.Run(new Customer());
             Application.Run(new SignUp());
             Application.Run(new Dashboard());
-        }
+            Application.Run(new Booking_Page());
+        
+    }
     }
 }
