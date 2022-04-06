@@ -21,5 +21,10 @@ namespace Gas_Order_System
         {
 
         }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
