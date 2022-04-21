@@ -1,2 +1,0 @@
-# CSharpGasManagementProject
- University Assignment
