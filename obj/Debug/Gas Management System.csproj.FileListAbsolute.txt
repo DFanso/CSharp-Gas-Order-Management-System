@@ -1,0 +1,138 @@
+D:\CSharpGasManagementProject\bin\Debug\bin\Debug\data.mdf
+D:\CSharpGasManagementProject\bin\Debug\bin\Debug\data_log.ldf
+D:\CSharpGasManagementProject\bin\Debug\Database\Database.mdf
+D:\CSharpGasManagementProject\bin\Debug\Database\Database_log.ldf
+D:\CSharpGasManagementProject\bin\Debug\ModernDesignTutorial.exe.config
+D:\CSharpGasManagementProject\bin\Debug\ModernDesignTutorial.exe.manifest
+D:\CSharpGasManagementProject\bin\Debug\ModernDesignTutorial.application
+D:\CSharpGasManagementProject\bin\Debug\ModernDesignTutorial.exe
+D:\CSharpGasManagementProject\bin\Debug\ModernDesignTutorial.pdb
+D:\CSharpGasManagementProject\bin\Debug\BouncyCastle.Crypto.dll
+D:\CSharpGasManagementProject\bin\Debug\Google.Protobuf.dll
+D:\CSharpGasManagementProject\bin\Debug\K4os.Compression.LZ4.dll
+D:\CSharpGasManagementProject\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\CSharpGasManagementProject\bin\Debug\K4os.Hash.xxHash.dll
+D:\CSharpGasManagementProject\bin\Debug\MySql.Data.dll
+D:\CSharpGasManagementProject\bin\Debug\System.Buffers.dll
+D:\CSharpGasManagementProject\bin\Debug\System.Memory.dll
+D:\CSharpGasManagementProject\bin\Debug\System.Numerics.Vectors.dll
+D:\CSharpGasManagementProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CSharpGasManagementProject\bin\Debug\Ubiety.Dns.Core.dll
+D:\CSharpGasManagementProject\bin\Debug\ZstdNet.dll
+D:\CSharpGasManagementProject\bin\Debug\Google.Protobuf.pdb
+D:\CSharpGasManagementProject\bin\Debug\Google.Protobuf.xml
+D:\CSharpGasManagementProject\bin\Debug\K4os.Compression.LZ4.xml
+D:\CSharpGasManagementProject\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\CSharpGasManagementProject\bin\Debug\K4os.Hash.xxHash.xml
+D:\CSharpGasManagementProject\bin\Debug\MySql.Data.xml
+D:\CSharpGasManagementProject\bin\Debug\System.Buffers.xml
+D:\CSharpGasManagementProject\bin\Debug\System.Memory.xml
+D:\CSharpGasManagementProject\bin\Debug\System.Numerics.Vectors.xml
+D:\CSharpGasManagementProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CSharpGasManagementProject\obj\Debug\Gas Management System.csproj.AssemblyReference.cache
+D:\CSharpGasManagementProject\obj\Debug\Gas Management System.csproj.SuggestedBindingRedirects.cache
+D:\CSharpGasManagementProject\obj\Debug\ModernDesignTutorial.Main.resources
+D:\CSharpGasManagementProject\obj\Debug\ModernDesignTutorial.Forms.Book.resources
+D:\CSharpGasManagementProject\obj\Debug\ModernDesignTutorial.Forms.Customer.resources
+D:\CSharpGasManagementProject\obj\Debug\ModernDesignTutorial.Forms.Queue.resources
+D:\CSharpGasManagementProject\obj\Debug\ModernDesignTutorial.LoginForm.resources
+D:\CSharpGasManagementProject\obj\Debug\ModernDesignTutorial.Properties.Resources.resources
+D:\CSharpGasManagementProject\obj\Debug\Gas Management System.csproj.GenerateResource.cache
+D:\CSharpGasManagementProject\obj\Debug\Gas Management System.csproj.CoreCompileInputs.cache
+D:\CSharpGasManagementProject\obj\Debug\ModernDesignTutorial.exe.manifest
+D:\CSharpGasManagementProject\obj\Debug\ModernDesignTutorial.application
+D:\CSharpGasManagementProject\obj\Debug\Gas Management System.csproj.CopyComplete
+D:\CSharpGasManagementProject\obj\Debug\ModernDesignTutorial.exe
+D:\CSharpGasManagementProject\obj\Debug\ModernDesignTutorial.pdb
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\bin\Debug\data.mdf
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\bin\Debug\data_log.ldf
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\Database\Database.mdf
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\Database\Database_log.ldf
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\ModernDesignTutorial.exe.config
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\ModernDesignTutorial.exe.manifest
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\ModernDesignTutorial.application
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\ModernDesignTutorial.exe
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\ModernDesignTutorial.pdb
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\Google.Protobuf.dll
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\MySql.Data.dll
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\System.Buffers.dll
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\System.Memory.dll
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\ZstdNet.dll
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\Google.Protobuf.pdb
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\Google.Protobuf.xml
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\MySql.Data.xml
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\System.Buffers.xml
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\System.Memory.xml
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\obj\Debug\Gas Management System.csproj.AssemblyReference.cache
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\obj\Debug\Gas Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.Main.resources
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.Forms.Book.resources
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.Forms.Customer.resources
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.Forms.Queue.resources
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.LoginForm.resources
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.Properties.Resources.resources
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\obj\Debug\Gas Management System.csproj.GenerateResource.cache
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\obj\Debug\Gas Management System.csproj.CoreCompileInputs.cache
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.exe.manifest
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.application
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\obj\Debug\Gas Management System.csproj.CopyComplete
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.exe
+C:\Users\leoga\Desktop\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.pdb
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\bin\Debug\data.mdf
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\bin\Debug\data_log.ldf
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\Database\Database.mdf
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\Database\Database_log.ldf
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\ModernDesignTutorial.exe.config
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\ModernDesignTutorial.exe.manifest
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\ModernDesignTutorial.application
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\ModernDesignTutorial.exe
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\ModernDesignTutorial.pdb
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\BouncyCastle.Crypto.dll
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\Google.Protobuf.dll
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\K4os.Compression.LZ4.dll
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\K4os.Hash.xxHash.dll
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\MySql.Data.dll
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\System.Buffers.dll
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\System.Memory.dll
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\System.Numerics.Vectors.dll
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\Ubiety.Dns.Core.dll
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\ZstdNet.dll
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\Google.Protobuf.pdb
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\Google.Protobuf.xml
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\K4os.Compression.LZ4.xml
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\K4os.Hash.xxHash.xml
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\MySql.Data.xml
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\System.Buffers.xml
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\System.Memory.xml
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\System.Numerics.Vectors.xml
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\obj\Debug\Gas Management System.csproj.AssemblyReference.cache
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\obj\Debug\Gas Management System.csproj.SuggestedBindingRedirects.cache
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.Main.resources
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.Forms.Book.resources
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.Forms.Customer.resources
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.Forms.Queue.resources
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.LoginForm.resources
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.Properties.Resources.resources
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\obj\Debug\Gas Management System.csproj.GenerateResource.cache
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\obj\Debug\Gas Management System.csproj.CoreCompileInputs.cache
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.exe.manifest
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.application
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\obj\Debug\Gas Management System.csproj.CopyComplete
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.exe
+D:\GAS\updating\CSharp-Gas-Order-Management-System-main\obj\Debug\ModernDesignTutorial.pdb
