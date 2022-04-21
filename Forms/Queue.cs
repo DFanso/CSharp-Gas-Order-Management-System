@@ -109,7 +109,7 @@ namespace ModernDesignTutorial.Forms
                         MySqlDataReader MyReader2;
                         MyConn2.Open();
                         MyReader2 = MyCommand2.ExecuteReader();
-                        MessageBox.Show("Customer Updated Successfully", "Done", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        MessageBox.Show("Order Updated Successfully", "Done", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         while (MyReader2.Read())
                         {
                         }

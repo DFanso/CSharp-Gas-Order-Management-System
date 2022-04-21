@@ -188,78 +188,107 @@ namespace ModernDesignTutorial.Forms
         private void update_Click_2(object sender, EventArgs e)
         {
             if (validate())
-            {
-                string MyConnection2 = "datasource=brd4d80jhwckvkrfb75w-mysql.services.clever-cloud.com;port=3306; username = uzgnlt5q7jytc8om; password=upImSxLkUgziqajzdnKO";
-
+            { 
                 string fname = fNameTxtBox.Text;
                 string lname = textBox2.Text;
                 string address = textBox4.Text;
                 int phoneNo = Convert.ToInt32(textBox1.Text);
                 string nic = textBox3.Text;
 
+                MySqlConnection con = new MySqlConnection("datasource=brd4d80jhwckvkrfb75w-mysql.services.clever-cloud.com; database=brd4d80jhwckvkrfb75w;port=3306; username = uzgnlt5q7jytc8om; password=upImSxLkUgziqajzdnKO "); //open connection
+                con.Open();
+                MySqlCommand cmd = new MySqlCommand("select * from customers where NIC='" + nic + "'", con);
+                MySqlDataReader reader = cmd.ExecuteReader();
+                if (reader.Read())
 
-                try
                 {
 
-                    string Query = "update brd4d80jhwckvkrfb75w.customers set Fname ='" + fname + "',Lname='" + lname + "',PhoneNo='" + phoneNo + "',Address='" + address + "'  where NIC='" + nic + "';";
-
-                    MySqlConnection MyConn2 = new MySqlConnection(MyConnection2);
-                    MySqlCommand MyCommand2 = new MySqlCommand(Query, MyConn2);
-                    MySqlDataReader MyReader2;
-                    MyConn2.Open();
-                    MyReader2 = MyCommand2.ExecuteReader();
-                    MessageBox.Show("Customer Updated Successfully", "Done", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    while (MyReader2.Read())
+                    try
                     {
-                    }
-                    MyConn2.Close();
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show(ex.Message);
-                }
+                        string MyConnection2 = "datasource=brd4d80jhwckvkrfb75w-mysql.services.clever-cloud.com;port=3306; username = uzgnlt5q7jytc8om; password=upImSxLkUgziqajzdnKO";
+                        string Query = "update brd4d80jhwckvkrfb75w.customers set Fname ='" + fname + "',Lname='" + lname + "',PhoneNo='" + phoneNo + "',Address='" + address + "'  where NIC='" + nic + "';";
 
+                        MySqlConnection MyConn2 = new MySqlConnection(MyConnection2);
+                        MySqlCommand MyCommand2 = new MySqlCommand(Query, MyConn2);
+                        MySqlDataReader MyReader2;
+                        MyConn2.Open();
+                        MyReader2 = MyCommand2.ExecuteReader();
+                        MessageBox.Show("Customer Updated Successfully", "Done", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        while (MyReader2.Read())
+                        {
+                        }
+                        MyConn2.Close();
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show(ex.Message);
+                    }
+
+                }
+                else
+                {
+                    MessageBox.Show("Wrong NIC", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                } 
+                reader.Close();
+                cmd.Dispose();
+                con.Close(); // always close connection }
             }
             else
             {
-                MessageBox.Show("Enter NIC Number", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Enter all information again!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
-
         }
 
         private void remove_Click_2(object sender, EventArgs e)
         {
-            string MyConnection2 = "datasource=brd4d80jhwckvkrfb75w-mysql.services.clever-cloud.com;port=3306; username = uzgnlt5q7jytc8om; password=upImSxLkUgziqajzdnKO";
+            
 
             string nic = textBox3.Text;
 
             if (validateDelete())
             {
-                try
+
+                MySqlConnection con = new MySqlConnection("datasource=brd4d80jhwckvkrfb75w-mysql.services.clever-cloud.com; database=brd4d80jhwckvkrfb75w;port=3306; username = uzgnlt5q7jytc8om; password=upImSxLkUgziqajzdnKO "); //open connection
+                con.Open();
+                MySqlCommand cmd = new MySqlCommand("select * from customers where NIC='" + nic + "'", con);
+                MySqlDataReader reader = cmd.ExecuteReader();
+                if (reader.Read())
                 {
 
-                    string Query = "delete from brd4d80jhwckvkrfb75w.customers where NIC='" + nic + "';";
-
-                    MySqlConnection MyConn2 = new MySqlConnection(MyConnection2);
-                    MySqlCommand MyCommand2 = new MySqlCommand(Query, MyConn2);
-                    MySqlDataReader MyReader2;
-                    MyConn2.Open();
-                    MyReader2 = MyCommand2.ExecuteReader();
-                    MessageBox.Show("Customer Removed Successfully", "Done", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    while (MyReader2.Read())
+                    try
                     {
-                    }
-                    MyConn2.Close();
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show(ex.Message);
-                }
+                        string MyConnection2 = "datasource=brd4d80jhwckvkrfb75w-mysql.services.clever-cloud.com;port=3306; username = uzgnlt5q7jytc8om; password=upImSxLkUgziqajzdnKO";
+                        string Query = "delete from brd4d80jhwckvkrfb75w.customers where NIC='" + nic + "';";
 
+                        MySqlConnection MyConn2 = new MySqlConnection(MyConnection2);
+                        MySqlCommand MyCommand2 = new MySqlCommand(Query, MyConn2);
+                        MySqlDataReader MyReader2;
+                        MyConn2.Open();
+                        MyReader2 = MyCommand2.ExecuteReader();
+                        MessageBox.Show("Customer Removed Successfully", "Done", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        while (MyReader2.Read())
+                        {
+                        }
+                        MyConn2.Close();
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show(ex.Message);
+                    }
+
+                }
+                else
+                {
+                    MessageBox.Show("Enter NIC Number", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+
+                }
+                reader.Close();
+                cmd.Dispose();
+                con.Close(); // always close connection }
             }
             else
             {
-                MessageBox.Show("Enter NIC Number", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Wrong NIC Number", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 
             }
 
